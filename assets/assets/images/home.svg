@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="384px" height="384px" viewBox="0 0 384 384" enable-background="new 0 0 384 384" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="104.1382" y1="139.6133" x2="296.3026" y2="382.483">
+	<stop  offset="0" style="stop-color:#3ABCA8"/>
+	<stop  offset="1" style="stop-color:#009383"/>
+</linearGradient>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M369.583,168.95L201.193,6.369
+	c-4.904-4.781-12.729-4.781-17.634,0L15.176,168.943c-2.479,2.393-3.878,5.69-3.878,9.135c0,7.012,5.685,12.696,12.696,12.696
+	h22.377V368.52c0,7.014,5.684,12.696,12.696,12.696h88.873c7.012,0,12.696-5.683,12.696-12.696V266.952h63.48V368.52
+	c0,7.014,5.684,12.696,12.696,12.696h88.874c7.012,0,12.694-5.683,12.694-12.696V190.775h22.378c3.443,0,6.735-1.397,9.128-3.873
+	C374.761,181.86,374.624,173.823,369.583,168.95L369.583,168.95z M338.381,178.079c-7.011,0-12.694,5.684-12.694,12.696V368.52
+	h-88.874V266.952c0-7.014-5.685-12.696-12.696-12.696h-63.48c-7.012,0-12.696,5.683-12.696,12.696V368.52H59.066V190.775
+	c0-7.012-5.684-12.696-12.696-12.696H23.994L192.377,15.504l168.446,162.575H338.381z"/>
+</svg>
